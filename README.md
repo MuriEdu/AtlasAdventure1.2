@@ -46,3 +46,7 @@ Além disso, a estrutura possui as seguintes operações primitivas:
 3. Abra o arquivo com a extensão .exe nomeado como “Projeto teste”.
 - Caso o link não esteja funcionando, entre em contato =)
 
+# Equipe
+* Murilo Eduardo Feijo Ramos(https://www.linkedin.com/in/muriedu/)
+* Pietro Bernardo Dutra Scaglione
+* Ulysses Santos Carneiro
