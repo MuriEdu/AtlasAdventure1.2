@@ -48,5 +48,5 @@ Além disso, a estrutura possui as seguintes operações primitivas:
 
 # Equipe
 * [Murilo Eduardo Feijo Ramos](https://www.linkedin.com/in/muriedu/)
-* Pietro Bernardo Dutra Scaglione
+* [Pietro Bernardo Dutra Scaglione](https://www.linkedin.com/in/pietro-bernardo-dutra-scaglione-1822182b2/)
 * Ulysses Santos Carneiro
