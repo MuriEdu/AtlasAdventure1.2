@@ -47,6 +47,6 @@ Além disso, a estrutura possui as seguintes operações primitivas:
 - Caso o link não esteja funcionando, entre em contato =)
 
 # Equipe
-* Murilo Eduardo Feijo Ramos(https://www.linkedin.com/in/muriedu/)
+* [Murilo Eduardo Feijo Ramos](https://www.linkedin.com/in/muriedu/)
 * Pietro Bernardo Dutra Scaglione
 * Ulysses Santos Carneiro
