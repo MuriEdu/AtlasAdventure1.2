@@ -21,7 +21,7 @@ A estrutura projetada facilita a verificação de elementos repetidos e de mesma
 
 Além dos nós padrão, utiliza-se nós header para o fluxo principal e para cada lista de cores.
 
-Exemplo da estrutura com 3 elementos inseridos na seguinte ordem: Rosa, Vermelho e Rosa.
+Exemplo da estrutura com 3 elementos inseridos na seguinte ordem: Rosa, Vermelho e Vermelho.
 
 ![ED](/img/ed.png)
 
