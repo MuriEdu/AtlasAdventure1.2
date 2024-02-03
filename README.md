@@ -17,13 +17,13 @@ A estrutura projetada facilita a verificação de elementos repetidos e de mesma
 - **NextInList (NIL):** representa o próximo elemento da pilha da respectiva cor.
 - **PrevInList (PIL):** representa o elemento anterior da pilha da respectiva cor.
 
-![Node]()
+![Node](/img/node.jpeg)
 
 Além dos nós padrão, utiliza-se nós header para o fluxo principal e para cada lista de cores.
 
 Exemplo da estrutura com 3 elementos inseridos na seguinte ordem: Rosa, Vermelho e Rosa.
 
-![ED]()
+![ED](/img/ed.png)
 
 Além disso, a estrutura possui as seguintes operações primitivas:
 
